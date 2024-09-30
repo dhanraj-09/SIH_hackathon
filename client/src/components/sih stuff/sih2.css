@@ -720,7 +720,7 @@ footer .footer_main .tag .search_bar {
 
 footer .footer_main .tag .search_bar input {
     width: 200px;
-    padding: 5px 5px;
+    padding: 2px 0;
     border: none;
     outline: none;
     font-size: 13px;
